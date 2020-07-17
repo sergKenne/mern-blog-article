@@ -1,0 +1,110 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg12385"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+pre4"
+   sodipodi:docname="bookstore book store white.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs12387">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective12393" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="282.59269"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="938"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata12390">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Other map symbols</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mohamed Ibrahim</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>clker.com</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>other map symbols</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 116.6389,56.3839 C 81.319762,56.3839 52.65968,85.174551 52.65968,120.49369 L 52.65968,611.5016 C 52.65968,646.82074 81.319762,675.61139 116.6389,675.61139 L 607.71209,675.61139 C 642.90067,675.61139 671.56075,646.82074 671.56075,611.5016 L 671.56075,120.49369 C 671.56075,85.174551 642.90067,56.3839 607.71209,56.3839 L 116.6389,56.3839 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2464" />
+    <path
+       d="M 607.71209,43.326915 L 116.6389,43.326915 C 74.073135,43.326915 39.537411,77.862639 39.537411,120.49369 L 39.537411,611.5016 C 39.537411,654.13265 74.073135,688.66838 116.6389,688.66838 L 607.71209,688.66838 C 650.27786,688.66838 684.7483,654.13265 684.7483,611.5016 L 684.7483,120.49369 C 684.7483,77.862639 650.27786,43.326915 607.71209,43.326915 M 671.56075,611.5016 C 671.56075,646.82074 642.90067,675.61139 607.71209,675.61139 L 116.6389,675.61139 C 81.319762,675.61139 52.65968,646.82074 52.65968,611.5016 L 52.65968,120.49369 C 52.65968,85.174551 81.319762,56.3839 116.6389,56.3839 L 607.71209,56.3839 C 642.90067,56.3839 671.56075,85.174551 671.56075,120.49369 L 671.56075,611.5016 z"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2466" />
+    <path
+       d="M 496.07488,584.86535 L 488.24069,584.86535 C 483.67074,579.70784 481.97333,573.24463 483.34432,565.27987 C 485.62929,552.1576 495.0956,541.25502 499.60026,539.68818 L 499.53498,539.55761 C 505.9329,537.27264 510.6987,531.13586 510.6987,523.88923 L 511.02512,180.29468 C 511.02512,171.08951 503.51736,163.58174 494.37747,163.51646 C 494.37747,163.51646 424.84903,163.45117 405.78583,163.3206 C 405.85111,147.12994 405.9164,124.93307 405.9164,124.93307 C 405.9164,118.14344 401.93402,112.07194 395.66667,109.46054 C 389.39931,106.84914 382.28326,108.28541 377.45217,112.98593 L 261.11444,228.47496 C 240.68026,248.77857 224.55488,287.1661 224.4896,316.02204 L 223.57561,556.40112 C 223.51032,590.02286 250.79942,617.5731 284.55173,617.70367 L 496.00959,618.35652 C 505.21477,618.35652 512.72253,610.84875 512.72253,601.70886 L 512.72253,601.64358 C 512.72253,592.37312 505.34534,584.93064 496.07488,584.86535 M 477.53396,196.94234 C 477.53396,225.60242 477.27282,478.45093 477.20753,507.17629 L 286.64084,507.17629 L 405.98168,407.15979 L 405.72054,196.81177 C 416.55784,196.87705 467.48008,196.94234 477.53396,196.94234 M 257.00149,556.46641 C 257.00149,556.46641 257.06677,542.62601 257.06677,540.60217 L 456.64278,540.60217 C 453.77025,546.67367 451.48527,553.07159 450.37543,559.5348 C 448.80859,568.47883 449.59201,576.8353 451.61584,584.73478 L 284.6823,584.2125 C 269.40562,584.2125 257.00149,571.80837 257.00149,556.46641"
+       style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path2468" />
+  </g>
+</svg>
+
