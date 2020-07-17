@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 const { MONGOURI } = require('./config/keys');
 const PORT = process.env.PORT || 5000;
 
-//mongoose.connect("mongodb://localhost:27017/blog-article", {
+//dz0ZKdTNSDIU0LYu
 mongoose.connect(MONGOURI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
