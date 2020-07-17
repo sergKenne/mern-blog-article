@@ -8,13 +8,13 @@ app.use(cors());
 //app.use(express.json());
 app.use(bodyParser.json());
 
-const keys = require("./config/keys").mongoURL ;//require("./config/dev").mongoURL
+const { MONGOURI } = require('./config/keys');
 const PORT = process.env.PORT || 5000;
 
 //mongoose.connect("mongodb://localhost:27017/blog-article", {
-mongoose.connect(keys, {
-    useNewUrlParser: true ,
-    useUnifiedTopology: true
+mongoose.connect(MONGOURI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
 });
 const db = mongoose.connection;
 db.once("open", () => {
